@@ -1,4 +1,4 @@
-# Forkify Project
+# Natours Project
 
 Explore the beauty of nature and plan your next adventure with Natours. Our website offers a visually stunning platform to discover and book immersive nature tours. From captivating destinations to seamless booking, Natours is your gateway to the wonders of the natural world. Embark on unforgettable journeys and connect with nature like never before!
 
