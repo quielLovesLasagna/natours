@@ -33,9 +33,8 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5
+- HTML5
 - CSS3
-- JavaScript
 - Sass
 
 ## Author
